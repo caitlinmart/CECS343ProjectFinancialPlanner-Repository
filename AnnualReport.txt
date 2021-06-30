@@ -1,0 +1,10 @@
+Annual Summary
+-----------------
+Income
+Rent 8070.0
+Expenses 5818.0
+Repairs 0.0
+Insurance 4840.0
+Utilities 978.0
+
+Balance 2252.0
